@@ -4,11 +4,11 @@ Este es el repositorio de los ejercicios de GitHub
 <table>
 <tr>
 <td>Jose Luis</td>
-<td><a href="https://github.com/joseluis17hans"></td>
+<td><a href="https://github.com/joseluis17hans">Clic Aqui</a></td>
 </tr>
 <tr>
 <td>Annie</td>
-<td><a href="https://github.com/anniefdez"></td>
+<td><a href="https://github.com/anniefdez">Clic Aqui</a></td>
 </tr>
 
 </table>
